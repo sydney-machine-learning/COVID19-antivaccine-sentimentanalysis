@@ -1,1 +1,3 @@
 Raw data retreived from https://ieee-dataport.org/open-access/coronavirus-covid-19-geo-tagged-tweets-dataset#files
+master Mar to Jan.csv: concatenation of all raw csv datasets from the IEEE source, ready for hydration to retreive tweets
+master hydrated Mar to Jan.csv: concatenation of all hydrated files
