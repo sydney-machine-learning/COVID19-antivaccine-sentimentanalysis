@@ -1,4 +1,4 @@
-# vaccine sentiment classification using LSTM model and Glove Embeddings 
+# vaccine sentiment classification using BERT model and Glove Embeddings 
 
 
 
