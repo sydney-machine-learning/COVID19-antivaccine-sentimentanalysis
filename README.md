@@ -8,11 +8,12 @@ Global COVID-19 Twitter dataset contains the datasets of tweets for the Countrie
 # Files
 The repository includes individual Jupyter Notebook files for each country's dataset, namely:
 
-Australia.ipynb
-India.ipynb
-Indonesia.ipynb
-Brazil.ipynb
-Japan.ipynb
+Australia.ipynb_
+India.ipynb_
+Indonesia.ipynb_
+Brazil.ipynb_
+Japan.ipynb_
+
 These files contain the filtered and preprocessed tweets from each country's dataset. In each notebook, sentiment analysis has been performed on the tweets specific to that country.
 
 Additionally, there is a combined analysis in the file "EDA_Global_Covid_Dataset.ipynb." This notebook presents data analysis and data visualization, combining the predicted sentiments from all countries' datasets.
