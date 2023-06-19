@@ -12,7 +12,7 @@ Australia.ipynb\
 India.ipynb\
 Indonesia.ipynb\
 Brazil.ipynb\
-Japan.ipynb\
+Japan.ipynb
 
 These files contain the filtered and preprocessed tweets from each country's dataset. In each notebook, sentiment analysis has been performed on the tweets specific to that country.
 
