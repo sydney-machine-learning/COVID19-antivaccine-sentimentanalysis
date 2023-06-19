@@ -4,7 +4,7 @@
 
 Note the project uses dataset from Kaggle: Janhavi Lande, Yashwant Kaurav, Cathy Yu, & Rohitash Chandra. (2022). Global COVID-19 Twitter dataset. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2397387
 
-Global COVID-19 Twitter dataset contains Tweets for the Countries Australia, India, Brazil, Indonesia, Japan, USA and UK.
+Global COVID-19 Twitter dataset contains the datasets of tweets for the Countries Australia, India, Brazil, Indonesia, Japan, USA and UK.
 # Files
 The repository includes individual Jupyter Notebook files for each country's dataset, namely:
 
