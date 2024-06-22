@@ -27,4 +27,4 @@ To reproduce the results:
 1. Run the individual country's notebook to generate the predicted sentiment data.
 2. Input the generated sentiment data into the EDA_Global_Covid_Dataset.ipynb notebook to perform the combined analysis.
    
-![Alt text]([https://github.com/sydney-machine-learning/COVID19-antivaccine-sentimentanalysis/blob/main/Screenshot%202024-06-22%20114759.png]?raw=true)
+![Alt text](https://github.com/sydney-machine-learning/COVID19-antivaccine-sentimentanalysis/blob/main/Screenshot%202024-06-22%20114759.png)
