@@ -1,19 +1,33 @@
-# vaccine sentiment classification using BERT model and Glove Embeddings 
+# Vaccine Sentiment Classification using BERT model and Glove Embeddings 
 
+#Project Overview
+This project aims to classify vaccine sentiments using BERT and GloVe embeddings. The dataset used for this project is the "Global COVID-19 Twitter dataset," which contains tweets from Australia, India, Brazil, Indonesia and the Japan.
 
+#Dataset
+The project utilizes the dataset from Kaggle:
 
-Note the project uses dataset from Kaggle: Janhavi Lande, Yashwant Kaurav, Cathy Yu, & Rohitash Chandra. (2022). Global COVID-19 Twitter dataset. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2397387
+Janhavi Lande, Yashwant Kaurav, Cathy Yu, & Rohitash Chandra. (2022). Global COVID-19 Twitter dataset. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2397387
+Files
+The repository includes individual Jupyter Notebook files for each country's dataset:
 
-Global COVID-19 Twitter dataset contains the datasets of tweets for the Countries Australia, India, Brazil, Indonesia, Japan, USA and UK.
-# Files
-The repository includes individual Jupyter Notebook files for each country's dataset, namely:
-
-Australia.ipynb\
-India.ipynb\
-Indonesia.ipynb\
-Brazil.ipynb\
+Australia.ipynb
+India.ipynb
+Indonesia.ipynb
+Brazil.ipynb
 Japan.ipynb
+USA.ipynb
+UK.ipynb
+These notebooks contain the filtered and preprocessed tweets for each country, and sentiment analysis has been performed on the tweets specific to that country.
 
-These files contain the filtered and preprocessed tweets from each country's dataset. In each notebook, sentiment analysis has been performed on the tweets specific to that country.
+Additionally, there is a combined analysis in the file EDA_Global_Covid_Dataset.ipynb. This notebook presents data analysis and visualization, combining the predicted sentiments from all countries' datasets.
+
+# Reproducing Results
+To reproduce the results:
+
+1. Run the individual country's notebook to generate the predicted sentiment data.
+2. Input the generated sentiment data into the EDA_Global_Covid_Dataset.ipynb notebook to perform the combined analysis.
+
+
 
 Additionally, there is a combined analysis in the file "EDA_Global_Covid_Dataset.ipynb." This notebook presents data analysis and data visualization, combining the predicted sentiments from all countries' datasets.
+
