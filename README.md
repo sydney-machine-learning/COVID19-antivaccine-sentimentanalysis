@@ -7,7 +7,8 @@ This project aims to classify vaccine sentiments using BERT and GloVe embeddings
 The project utilizes the dataset from Kaggle:
 
 Janhavi Lande, Yashwant Kaurav, Cathy Yu, & Rohitash Chandra. (2022). Global COVID-19 Twitter dataset. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2397387
-Files
+
+## Files
 The repository includes individual Jupyter Notebook files for each country's dataset:
 
 - Australia.ipynb
@@ -25,8 +26,6 @@ To reproduce the results:
 
 1. Run the individual country's notebook to generate the predicted sentiment data.
 2. Input the generated sentiment data into the EDA_Global_Covid_Dataset.ipynb notebook to perform the combined analysis.
+![alt text](http://url/to/img.png)
 
-
-
-Additionally, there is a combined analysis in the file "EDA_Global_Covid_Dataset.ipynb." This notebook presents data analysis and data visualization, combining the predicted sentiments from all countries' datasets.
 
