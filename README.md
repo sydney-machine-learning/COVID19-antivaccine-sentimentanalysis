@@ -1,6 +1,6 @@
 # Vaccine Sentiment Classification using BERT model and Glove Embeddings 
 
-# Project Overview
+## Project Overview
 This project aims to classify vaccine sentiments using BERT and GloVe embeddings. The dataset used for this project is the "Global COVID-19 Twitter dataset," which contains tweets from Australia, India, Brazil, Indonesia and the Japan.
 
 # Dataset
