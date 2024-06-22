@@ -1,7 +1,7 @@
 # Vaccine Sentiment Classification using BERT model and Glove Embeddings 
 
 ## Project Overview
-This project aims to classify vaccine sentiments using BERT and GloVe embeddings. The dataset used for this project is the "Global COVID-19 Twitter dataset," which contains tweets from Australia, India, Brazil, Indonesia and the Japan.
+This project aims to classify vaccine sentiments using BERT and GloVe embeddings. The dataset used for this project is the "Global COVID-19 Twitter dataset," which contains tweets from Australia, India, Brazil, Indonesia, Japan, USA and UK.
 
 ## Dataset
 The project utilizes the dataset from Kaggle:
@@ -12,11 +12,10 @@ The repository includes individual Jupyter Notebook files for each country's dat
 
 - Australia.ipynb
 - India.ipynb
-Indonesia.ipynb
-Brazil.ipynb
-Japan.ipynb
-USA.ipynb
-UK.ipynb
+- Indonesia.ipynb
+- Brazil.ipynb
+- Japan.ipynb
+
 These notebooks contain the filtered and preprocessed tweets for each country, and sentiment analysis has been performed on the tweets specific to that country.
 
 Additionally, there is a combined analysis in the file EDA_Global_Covid_Dataset.ipynb. This notebook presents data analysis and visualization, combining the predicted sentiments from all countries' datasets.
